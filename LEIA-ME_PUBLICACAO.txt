@@ -1,0 +1,22 @@
+WALISON LOPES OFICIAL — SITE PROFISSIONAL
+
+Arquivos principais:
+- index.html = site principal
+- contratacao.html = página de contratação
+- PAINEL_EDICAO.html = painel simples para editar informações e preparar novas fotos
+- assets/ = imagens do projeto
+- CNAME = domínio pretendido: walisonlopesoficial.com.br
+- Release_Walison_Lopes_2026.pdf = release original
+
+PUBLICAÇÃO
+O site é estático e pode ser publicado no GitHub Pages ou em outra hospedagem de sites estáticos.
+
+DOMÍNIO
+Domínio pretendido: walisonlopesoficial.com.br
+O domínio precisa estar registrado em nome do responsável e ter o DNS configurado para a hospedagem escolhida.
+
+EDIÇÃO
+O painel PAINEL_EDICAO.html permite alterar informações e selecionar novas fotos sem editar código. As alterações ficam salvas no navegador e podem ser exportadas em um backup JSON. Para aparecerem para todos os visitantes, a versão atualizada precisa ser publicada na hospedagem.
+
+ÁUDIO
+O release original informa os projetos e músicas, mas não fornece arquivos de áudio. Por isso, o site não inventa faixas de áudio: os botões direcionam para a página oficial do Sua Música.
